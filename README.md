@@ -36,12 +36,12 @@ Apaixonado por arquitetura de software, boas práticas e pelo processo de transf
 
 ---
 
-###📊 GitHub Stats
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RenanMartinsCanhos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanMartinsCanhos&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+📊 GitHub Stats
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=RenanMartinsCanhos&theme=tokyonight&hide_border=true&locale=pt_BR" />
 </p>
-*Construindo um commit de cada vez.* 🟩
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RenanMartinsCanhos&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+Construindo um commit de cada vez. 🟩
