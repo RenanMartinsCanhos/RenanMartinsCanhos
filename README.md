@@ -17,7 +17,6 @@ Apaixonado por arquitetura de software, boas práticas e pelo processo de transf
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -37,13 +36,12 @@ Apaixonado por arquitetura de software, boas práticas e pelo processo de transf
 
 ---
 
-### 📊 GitHub Stats
-
+###📊 GitHub Stats
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RenanMartinsCanhos&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanMartinsCanhos&layout=compact&theme=dark&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RenanMartinsCanhos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanMartinsCanhos&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
-
----
-
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=RenanMartinsCanhos&theme=tokyonight&hide_border=true&locale=pt_BR" />
+</p>
 *Construindo um commit de cada vez.* 🟩
