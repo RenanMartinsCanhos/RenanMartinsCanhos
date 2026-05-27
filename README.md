@@ -7,7 +7,7 @@
 Estudo **Análise e Desenvolvimento de Sistemas** e trabalho construindo APIs REST robustas, seguras e bem estruturadas.  
 Apaixonado por arquitetura de software, boas práticas e pelo processo de transformar problemas reais em código limpo.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00AB33?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00AB33?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-martins-canhos-b6894230a/)
 [![Gmail](https://img.shields.io/badge/nextiwnl75@gmail.com-00AB33?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nextiwnl75@gmail.com)
 
 ---
